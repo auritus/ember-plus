@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup>
+    <Nullable>disable</Nullable>
+    <TargetFramework>net6.0</TargetFramework>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <DefineConstants>NO_SERIALIZATION</DefineConstants>
+  </PropertyGroup>
+</Project>
